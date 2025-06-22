@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 I'm a 3rd-year Computer Engineering student passionate about turning code into real-world solutions.💻 I specialize in Java, Spring Boot, Python, C++, and Machine Learning.
+🎓 I'm a 3rd-year Computer Engineering student passionate about turning code into real-world solutions.
+💻 I specialize in Java, Spring Boot, Python, C++, and Machine Learning.
 
 
 
