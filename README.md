@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Second Year Computer Engineering Student at Aligarh Muslim University, passionate about exploring the realms of Coding and Machine Learning.
+🎓 I'm a 3rd-year Computer Engineering student passionate about turning code into real-world solutions.💻 I specialize in Java, Spring Boot, Python, C++, and Machine Learning.
+
 
 
 ## 🌐 Socials:
