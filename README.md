@@ -1,21 +1,135 @@
-# 💫 About Me:
-🎓 I'm a 3rd-year Computer Engineering student passionate about turning code into real-world solutions.
-💻 I specialize in Java, Spring Boot, Python, C++, and Machine Learning.
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,3,5&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn">
+  <img alt="GitHub Banner" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=50&animation=fadeIn">
+</picture>
 
+# 👋 Hey there, I'm Mohd Talha
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Engineer;Python+Developer;Backend+Developer;Building+Production-Ready+AI+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtalha17) 
+<p align="center">
+  <a href="https://github.com/MdTalha17?tab=followers">
+    <img src="https://img.shields.io/github/followers/MdTalha17?style=for-the-badge&logo=github&label=Followers&color=FF69B4&labelColor=1e1e2e">
+  </a>
+  <a href="https://github.com/[YOUR_USERNAME]">
+    <img src="https://img.shields.io/github/stars/MdTalha17?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=EF93C4&labelColor=1e1e2e">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=MdTalha17&style=for-the-badge&color=F8BBD0">
+    <img src="https://komarev.com/ghpvc/?username=MdTalha17&style=for-the-badge&color=FF69B4" alt="Profile Views">
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MdTalha17&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MdTalha17&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTalha17&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MdTalha17&limit=5&theme=swift&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MdTalha17&icon=5&color=0)](https://visitcount.itsvg.in)
+
+# 🌸 About Me
+
+<table>
+<tr>
+
+<td width="65%">
+
+### 🚀 Who Am I?
+
+- 🌸 **Name:** Mohd Talha
+- 💻 **Role:** AI/ML Engineer | Backend Engineer
+- 🤝 **Looking to Collaborate On:** Open Source & AI Projects
+- 📚 **Interests:** Machine Learning, GenAI, Backend Systems
+- ⚡ **Fun Fact:** 🐍 Python is my favorite language for turning ideas into reality.
+
+### 🎯 Goals
+
+- Build scalable AI products
+- Contribute to impactful open-source projects
+- Explore LLMs, Agentic AI & MLOps
+- Keep learning every day
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,flask,django,tensorflow,pytorch,sklearn,docker,git,github,linux,mysql,mongodb,postgres,redis,aws,gcp,azure,vscode,anaconda,opencv&perline=8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTalha17&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTalha17&layout=compact&hide_border=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0"/>
+
+<br><br>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MdTalha17&hide_border=true&theme=transparent&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=F8BBD0"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdTalha17&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<!-- Generate using GitHub Actions -->
+
+<img src="https://raw.githubusercontent.com/MdTalha17/MdTalha17/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/mdtalha17">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:talhamoh017@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=24,20,12,30"/>
+
+</div>
