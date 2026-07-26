@@ -98,7 +98,9 @@
 
 <!-- Generate using GitHub Actions -->
 
-<img src="https://raw.githubusercontent.com/MdTalha17/MdTalha17/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img data-importer="snake" src="https://raw.githubusercontent.com/MdTalha17/MdTalha17/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 </div>
 
